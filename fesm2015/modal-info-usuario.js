@@ -1,4 +1,4 @@
-import { Injectable, NgModule, Component, Input, defineInjectable } from '@angular/core';
+import { Injectable, Component, Input, NgModule, defineInjectable } from '@angular/core';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { CommonModule } from '@angular/common';
