@@ -1,0 +1,23 @@
+{
+  "name": "modal-info-usuario",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/material": "^6.1.0",
+    "@angular/flex-layout": "^6.0.0-beta.18"
+  },
+  "main": "bundles/modal-info-usuario.umd.js",
+  "module": "fesm5/modal-info-usuario.js",
+  "es2015": "fesm2015/modal-info-usuario.js",
+  "esm5": "esm5/modal-info-usuario.js",
+  "esm2015": "esm2015/modal-info-usuario.js",
+  "fesm5": "fesm5/modal-info-usuario.js",
+  "fesm2015": "fesm2015/modal-info-usuario.js",
+  "typings": "modal-info-usuario.d.ts",
+  "metadata": "modal-info-usuario.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
